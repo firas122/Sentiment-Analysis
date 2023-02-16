@@ -94,22 +94,6 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * A general polarity scores is assigned to each offer by calculating the average of scores on different reviews.
 
 
-<br />
-
-<a name="prerequisites"></a>
-### Prerequisites
-
-This is a list of different main modules to install before implementing our project
-
-* pip
-  ```sh
-  npm install npm@latest -g
-  ```
-* Tesseract
-  ```sh
-  npm install npm@latest -g
-  ```
-<br />
 
 <a name="installation"></a>
 ### Installation
